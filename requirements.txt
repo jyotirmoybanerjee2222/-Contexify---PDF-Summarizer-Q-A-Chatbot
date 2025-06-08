@@ -1,0 +1,16 @@
+streamlit
+transformers
+torch
+PyPDF2
+langchain
+faiss-cpu
+google-generativeai
+pymupdf
+spacy
+pyrebase4
+streamlit-option-menu
+
+langchain-community
+langchain-google-genai
+firebase_admin
+python-dotenv
